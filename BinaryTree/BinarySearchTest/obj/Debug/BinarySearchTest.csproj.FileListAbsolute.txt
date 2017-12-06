@@ -1,0 +1,10 @@
+D:\SvnRepository\CSharpBasics\CSharp11\CSharp11_Practice\BinarySearchTest\obj\Debug\BinarySearchTest.csprojResolveAssemblyReference.cache
+D:\SvnRepository\CSharpBasics\CSharp11\CSharp11_Practice\BinarySearchTest\bin\Debug\BinarySearchTest.dll
+D:\SvnRepository\CSharpBasics\CSharp11\CSharp11_Practice\BinarySearchTest\bin\Debug\BinarySearchTest.pdb
+D:\SvnRepository\CSharpBasics\CSharp11\CSharp11_Practice\BinarySearchTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\SvnRepository\CSharpBasics\CSharp11\CSharp11_Practice\BinarySearchTest\bin\Debug\nunit.framework.dll
+D:\SvnRepository\CSharpBasics\CSharp11\CSharp11_Practice\BinarySearchTest\bin\Debug\BinarySearchTree.pdb
+D:\SvnRepository\CSharpBasics\CSharp11\CSharp11_Practice\BinarySearchTest\bin\Debug\nunit.framework.xml
+D:\SvnRepository\CSharpBasics\CSharp11\CSharp11_Practice\BinarySearchTest\obj\Debug\BinarySearchTest.dll
+D:\SvnRepository\CSharpBasics\CSharp11\CSharp11_Practice\BinarySearchTest\obj\Debug\BinarySearchTest.pdb
+D:\SvnRepository\CSharpBasics\CSharp11\CSharp11_Practice\BinarySearchTest\bin\Debug\BinarySearchTree.dll

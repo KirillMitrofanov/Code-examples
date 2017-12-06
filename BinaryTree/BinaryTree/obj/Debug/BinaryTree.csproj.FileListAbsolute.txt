@@ -1,0 +1,2 @@
+D:\mvsProjects\CSharp11_Practice\BinaryTree\bin\Debug\BinaryTree.exe.config
+D:\SvnRepository\CSharpBasics\CSharp11\CSharp11_Practice\BinaryTree\bin\Debug\BinaryTree.exe.config
